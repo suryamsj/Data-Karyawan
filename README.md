@@ -10,5 +10,7 @@ List vidio :
  - Menghapus data
  - Mencari data
 
+![Gambar](https://raw.githubusercontent.com/suryamsj/data-karyawan/main/screenshot/Capture.PNG)
+
 Untuk yang mau nonton tutorialnya bisa ke playlist Youtube [CRUD C#](https://www.youtube.com/watch?v=G5DW7i2AvGU&list=PL_WZjCQkM6weIdaefZyhd-kHHBrppHfsP). Jangan lupa di subscribe. Terima kasih
 
