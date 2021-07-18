@@ -14,3 +14,4 @@ List vidio :
 
 Untuk yang mau nonton tutorialnya bisa ke playlist Youtube [CRUD C#](https://www.youtube.com/watch?v=G5DW7i2AvGU&list=PL_WZjCQkM6weIdaefZyhd-kHHBrppHfsP). Jangan lupa di subscribe. Terima kasih
 
+<a href="https://trakteer.id/suryamsj/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.jpg" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
